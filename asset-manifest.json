@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hetvimodi6204/React-Todo-List/static/css/main.8c6ebf06.css",
+    "main.js": "/Hetvimodi6204/React-Todo-List/static/js/main.3c4875b0.js",
+    "index.html": "/Hetvimodi6204/React-Todo-List/index.html",
+    "main.8c6ebf06.css.map": "/Hetvimodi6204/React-Todo-List/static/css/main.8c6ebf06.css.map",
+    "main.3c4875b0.js.map": "/Hetvimodi6204/React-Todo-List/static/js/main.3c4875b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6ebf06.css",
+    "static/js/main.3c4875b0.js"
+  ]
+}
